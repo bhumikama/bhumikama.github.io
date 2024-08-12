@@ -18,7 +18,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     "price": "120.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Science Fiction, Adventure, Drama",
+    "duration": "169 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 8.6
   },
   {
     "id": 2,
@@ -35,7 +41,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
     "price": "150.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Comedy, Fantasy, Adventure",
+    "duration": "114 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 7.1
   },
   {
     "id": 3,
@@ -52,7 +64,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
     "price": "140.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Animation, Action, Adventure",
+    "duration": "140 min",
+    "age_rating": "PG",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 8.9
   },
   {
     "id": 4,
@@ -69,7 +87,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ScPNT6fHtfYJeWBajZciPV3hEL.jpg",
     "price": "200.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Science Fiction, Adventure, Action",
+    "duration": "192 min",
+    "age_rating": "PG-13",
+    "language": "English, Na'vi",
+    "country": "USA",
+    "imdb_rating": 7.7
   },
   {
     "id": 5,
@@ -86,7 +110,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg",
     "price": "190.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Crime, Mystery, Drama",
+    "duration": "176 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 7.9
   },
   {
     "id": 6,
@@ -103,7 +133,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
     "price": "180.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Science Fiction, Adventure, Drama",
+    "duration": "155 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA, Canada",
+    "imdb_rating": 8.1
   },
   {
     "id": 7,
@@ -120,7 +156,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
     "price": "170.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Action, Thriller, Adventure",
+    "duration": "163 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "UK, USA",
+    "imdb_rating": 7.3
   },
   {
     "id": 8,
@@ -137,7 +179,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg",
     "price": "160.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Action, Adventure, Science Fiction",
+    "duration": "134 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 6.7
   },
   {
     "id": 9,
@@ -157,7 +205,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
     "price": "100.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Action, Science Fiction, Thriller",
+    "duration": "148 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 8.8
   },
   {
     "id": 10,
@@ -178,7 +232,13 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
     "price": "120.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Fantasy, Romance, Drama",
+    "duration": "122 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 5.3
   },
   {
     "id": 11,
@@ -198,6 +258,450 @@
     ],
     "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
     "price": "120.00",
-    "rating": 0
+    "rating": 0,
+    "genre": "Drama, Romance",
+    "duration": "195 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 7.9
+  },
+  {
+    "id": 12,
+    "title": "The Matrix",
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "movie_year": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "actors": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Joe Pantoliano"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "price": "110.00",
+    "rating": 0,
+    "genre": "Action, Science Fiction",
+    "duration": "136 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA, Australia",
+    "imdb_rating": 8.7
+  },
+  {
+    "id": 13,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster, and his wife intertwine in four tales of violence and redemption.",
+    "movie_year": 1994,
+    "director": "Quentin Tarantino",
+    "actors": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson",
+      "Bruce Willis",
+      "Ving Rhames"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dM2w364MScsjFf8pfMbaWUcWrR.jpg",
+    "price": "100.00",
+    "rating": 0,
+    "genre": "Crime, Drama",
+    "duration": "154 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 8.9
+  },
+  {
+    "id": 14,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "movie_year": 1972,
+    "director": "Francis Ford Coppola",
+    "actors": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan",
+      "Richard S. Castellano",
+      "Robert Duvall"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "price": "130.00",
+    "rating": 0,
+    "genre": "Crime, Drama",
+    "duration": "175 min",
+    "age_rating": "R",
+    "language": "English, Italian",
+    "country": "USA",
+    "imdb_rating": 9.2
+  },
+  {
+    "id": 15,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "movie_year": 1994,
+    "director": "Frank Darabont",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+    "price": "120.00",
+    "rating": 0,
+    "genre": "Drama, Crime",
+    "duration": "142 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 9.3
+  },
+  {
+    "id": 16,
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+    "movie_year": 1994,
+    "director": "Robert Zemeckis",
+    "actors": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Mykelti Williamson",
+      "Sally Field"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
+    "price": "110.00",
+    "rating": 0,
+    "genre": "Drama, Romance",
+    "duration": "142 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 8.8
+  },
+  {
+    "id": 17,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "movie_year": 2003,
+    "director": "Peter Jackson",
+    "actors": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen",
+      "Orlando Bloom",
+      "Sean Astin"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+    "price": "140.00",
+    "rating": 0,
+    "genre": "Adventure, Fantasy, Action",
+    "duration": "201 min",
+    "age_rating": "PG-13",
+    "language": "English, Quenya, Old English",
+    "country": "New Zealand, USA",
+    "imdb_rating": 9.0
+  },
+  {
+    "id": 18,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+    "movie_year": 1980,
+    "director": "Irvin Kershner",
+    "actors": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher",
+      "Billy Dee Williams",
+      "Anthony Daniels"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7BuH8itoSrLExs2YZSsM01Qk2no.jpg",
+    "price": "130.00",
+    "rating": 0,
+    "genre": "Adventure, Action, Science Fiction",
+    "duration": "124 min",
+    "age_rating": "PG",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 8.7
+  },
+  {
+    "id": 19,
+    "title": "Gladiator",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "movie_year": 2000,
+    "director": "Ridley Scott",
+    "actors": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen",
+      "Oliver Reed",
+      "Derek Jacobi"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "price": "125.00",
+    "rating": 0,
+    "genre": "Action, Drama, Adventure",
+    "duration": "155 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 8.5
+  },
+  {
+    "id": 20,
+    "title": "The Dark Knight",
+    "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "movie_year": 2008,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Maggie Gyllenhaal"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "price": "150.00",
+    "rating": 0,
+    "genre": "Action, Crime, Drama",
+    "duration": "152 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 9.0
+  },
+  {
+    "id": 21,
+    "title": "Inglourious Basterds",
+    "description": "In Nazi-occupied France, a group of Jewish-American soldiers known as 'The Basterds' are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis.",
+    "movie_year": 2009,
+    "director": "Quentin Tarantino",
+    "actors": [
+      "Brad Pitt",
+      "Christoph Waltz",
+      "Michael Fassbender",
+      "Diane Kruger",
+      "Eli Roth"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8eHEFT06Y0Hl3pLo0v1HTv4xkMr.jpg",
+    "price": "130.00",
+    "rating": 0,
+    "genre": "Adventure, Drama, War",
+    "duration": "153 min",
+    "age_rating": "R",
+    "language": "English, German, French, Italian",
+    "country": "USA, Germany",
+    "imdb_rating": 8.3
+  },
+  {
+    "id": 22,
+    "title": "Her",
+    "description": "A lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+    "movie_year": 2013,
+    "director": "Spike Jonze",
+    "actors": [
+      "Joaquin Phoenix",
+      "Amy Adams",
+      "Scarlett Johansson",
+      "Rooney Mara",
+      "Chris Pratt"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMDeeyhDA2XazZ9kro2x2OezKt9.jpg",
+    "price": "120.00",
+    "rating": 0,
+    "genre": "Drama, Science Fiction, Romance",
+    "duration": "126 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 8.0
+  },
+  {
+    "id": 23,
+    "title": "The Big Short",
+    "description": "Four denizens in the world of high finance who predicted the credit and housing bubble collapse of the mid-2000s decide to take on the big banks for their greed and lack of foresight.",
+    "movie_year": 2015,
+    "director": "Adam McKay",
+    "actors": [
+      "Christian Bale",
+      "Steve Carell",
+      "Ryan Gosling",
+      "Brad Pitt",
+      "Hamish Linklater"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4ANPa5K9G8BGsBeM8OrLCTkXP7.jpg",
+    "price": "125.00",
+    "rating": 0,
+    "genre": "Drama, Comedy",
+    "duration": "130 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 7.8
+  },
+  {
+    "id": 24,
+    "title": "The Revenant",
+    "description": "In the 1820s, a frontiersman on a quest for survival after being left for dead by members of his own hunting team fights for his life and seeks revenge on those who betrayed him.",
+    "movie_year": 2015,
+    "director": "Alejandro G. Iñárritu",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hardy",
+      "Domhnall Gleeson",
+      "Will Poulter",
+      "Forrest Goodluck"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/srK9Y2WEzIH5Tq5S48hZ6ZLhBzS.jpg",
+    "price": "140.00",
+    "rating": 0,
+    "genre": "Adventure, Drama, Thriller",
+    "duration": "156 min",
+    "age_rating": "R",
+    "language": "English, Spanish",
+    "country": "USA, China",
+    "imdb_rating": 8.0
+  },
+  {
+    "id": 25,
+    "title": "The Imitation Game",
+    "description": "During World War II, the mathematician Alan Turing tries to crack the enigma code with the help of fellow mathematicians.",
+    "movie_year": 2014,
+    "director": "Morten Tyldum",
+    "actors": [
+      "Benedict Cumberbatch",
+      "Keira Knightley",
+      "Matthew Goode",
+      "Allen Leech",
+      "Rory Kinnear"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wh0OmaIh36dS5T6hKbO5I2EJ7bR.jpg",
+    "price": "130.00",
+    "rating": 0,
+    "genre": "Biography, Drama, Thriller",
+    "duration": "113 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "UK, USA",
+    "imdb_rating": 8.0
+  },
+  {
+    "id": 26,
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, Max teams up with a mysterious woman to try and survive a group of warlords who control the land.",
+    "movie_year": 2015,
+    "director": "George Miller",
+    "actors": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult",
+      "Hugh Keays-Byrne",
+      "Josh Helman"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8T6p9ph1zQu2PbmGx0FZfLC5SDB.jpg",
+    "price": "140.00",
+    "rating": 0,
+    "genre": "Action, Adventure, Science Fiction",
+    "duration": "120 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "Australia, USA",
+    "imdb_rating": 8.1
+  },
+  {
+    "id": 27,
+    "title": "Zodiac",
+    "description": "A cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer.",
+    "movie_year": 2007,
+    "director": "David Fincher",
+    "actors": [
+      "Jake Gyllenhaal",
+      "Robert Downey Jr.",
+      "Mark Ruffalo",
+      "Anthony Edwards",
+      "Brian Cox"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lUDOfIx9aAyoT22jC8UKy8FFxTq.jpg",
+    "price": "120.00",
+    "rating": 0,
+    "genre": "Crime, Drama, Thriller",
+    "duration": "157 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA",
+    "imdb_rating": 7.7
+  },
+  {
+    "id": 28,
+    "title": "The Prestige",
+    "description": "Two stage magicians engage in a competitive battle to create the ultimate stage illusion, leading to tragic consequences.",
+    "movie_year": 2006,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson",
+      "Michael Caine",
+      "Rebecca Hall"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5ZNR3mT3YeKzlh5VZJVPVlbEtmd.jpg",
+    "price": "125.00",
+    "rating": 0,
+    "genre": "Drama, Mystery, Thriller",
+    "duration": "130 min",
+    "age_rating": "PG-13",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 8.5
+  },
+  {
+    "id": 29,
+    "title": "Catch Me If You Can",
+    "description": "A true story of a brilliant young con artist who successfully performs cons worth millions of dollars before his 19th birthday.",
+    "movie_year": 2002,
+    "director": "Steven Spielberg",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken",
+      "Martin Sheen",
+      "Nathalie Baye"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/giIAt4WqLyoLCZl26cWbTVXhK7z.jpg",
+    "price": "110.00",
+    "rating": 0,
+    "genre": "Biography, Comedy, Crime",
+    "duration": "141 min",
+    "age_rating": "PG-13",
+    "language": "English, French, German",
+    "country": "USA",
+    "imdb_rating": 8.1
+  },
+  {
+    "id": 30,
+    "title": "Memento",
+    "description": "A man with short-term memory loss attempts to track down his wife's killer using notes and tattoos to guide him.",
+    "movie_year": 2000,
+    "director": "Christopher Nolan",
+    "actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior",
+      "Stephen Tobolowsky"
+    ],
+    "poster_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sKzzO8w7pAqMN6D6ylN4TRy2UTr.jpg",
+    "price": "115.00",
+    "rating": 0,
+    "genre": "Mystery, Thriller",
+    "duration": "113 min",
+    "age_rating": "R",
+    "language": "English",
+    "country": "USA, UK",
+    "imdb_rating": 8.4
   }
+
 ]
