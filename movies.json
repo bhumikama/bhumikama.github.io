@@ -20,7 +20,8 @@
     "age_rating": "PG",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 5.0
+    "imdb_rating": 5.0,
+    "trailer_url": "https://youtu.be/yk2Ej59DnrE"
   },
   {
     "id": 2,
@@ -43,7 +44,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA, UK",
-    "imdb_rating": 7.1
+    "imdb_rating": 7.1,
+    "trailer_url": "https://www.youtube.com/watch?v=pBkL6d2b6tM"
   },
   {
     "id": 3,
@@ -66,7 +68,8 @@
     "age_rating": "R",
     "language": "Spanish",
     "country": "Spain",
-    "imdb_rating": 6.3
+    "imdb_rating": 6.3,
+    "trailer_url": "https://youtu.be/xY-qRGC6Yu0"
   },
   {
     "id": 4,
@@ -89,7 +92,8 @@
     "age_rating": "R",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 7.5
+    "imdb_rating": 7.5,
+    "trailer_url": "https://youtu.be/uWLNl_KQCAU"
   },
   {
     "id": 5,
@@ -112,7 +116,8 @@
     "age_rating": "PG",
     "language": "English, Spanish",
     "country": "USA, Mexico",
-    "imdb_rating": 8.4
+    "imdb_rating": 8.4,
+    "trailer_url": "https://youtu.be/_TLXORFumu0"
   },
   {
     "id": 6,
@@ -135,7 +140,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA, Canada",
-    "imdb_rating": 8.1
+    "imdb_rating": 8.1,
+    "trailer_url": "https://youtu.be/w0HgHet0sxg"
   },
   {
     "id": 7,
@@ -158,7 +164,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "UK, USA",
-    "imdb_rating": 7.3
+    "imdb_rating": 7.3,
+    "trailer_url": "https://youtu.be/N_gD9-Oa0fg"
   },
   {
     "id": 8,
@@ -181,7 +188,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 6.7
+    "imdb_rating": 6.7,
+    "trailer_url": "https://youtu.be/Fp9pNPdNwjI"
   },
   {
     "id": 9,
@@ -207,7 +215,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA, UK",
-    "imdb_rating": 8.8
+    "imdb_rating": 8.8,
+    "trailer_url": "https://youtu.be/cdx31ak4KbQ"
   },
   {
     "id": 10,
@@ -234,7 +243,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 5.3
+    "imdb_rating": 5.3,
+    "trailer_url": "https://youtu.be/uxjNDE2fMjI"
   },
   {
     "id": 11,
@@ -260,7 +270,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 7.9
+    "imdb_rating": 7.9,
+    "trailer_url": "https://youtu.be/kVrqfYjkTdQ"
   },
   {
     "id": 12,
@@ -283,7 +294,8 @@
     "age_rating": "R",
     "language": "English",
     "country": "USA, Australia",
-    "imdb_rating": 8.7
+    "imdb_rating": 8.7,
+    "trailer_url": "https://youtu.be/d0XTFAMmhrE"
   },
   {
     "id": 13,
@@ -306,7 +318,8 @@
     "age_rating": "R",
     "language": "Korean",
     "country": "South Korea",
-    "imdb_rating": 8.5
+    "imdb_rating": 8.5,
+    "trailer_url": "https://youtu.be/bM9QabAojCg"
   },
   {
     "id": 14,
@@ -329,7 +342,8 @@
     "age_rating": "R",
     "language": "English, Italian",
     "country": "USA",
-    "imdb_rating": 9.2
+    "imdb_rating": 9.2,
+    "trailer_url": "https://youtu.be/Ew9ngL1GZvs"
   },
   {
     "id": 15,
@@ -352,7 +366,8 @@
     "age_rating": "R",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 9.3
+    "imdb_rating": 9.3,
+    "trailer_url": "https://youtu.be/PLl99DlL6b4"
   },
   {
     "id": 16,
@@ -375,7 +390,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 8.8
+    "imdb_rating": 8.8,
+    "trailer_url": "https://youtu.be/m-btyJIYLyI"
   },
   {
     "id": 17,
@@ -398,7 +414,8 @@
     "age_rating": "PG-13",
     "language": "English, Quenya, Old English",
     "country": "New Zealand, USA",
-    "imdb_rating": 9.0
+    "imdb_rating": 9.0,
+    "trailer_url": "https://youtu.be/xlUM0lv_sfo"
   },
   {
     "id": 18,
@@ -421,7 +438,8 @@
     "age_rating": "PG",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 8.7
+    "imdb_rating": 8.7,
+    "trailer_url": "https://youtu.be/vU6L3jXt2r8"
   },
   {
     "id": 19,
@@ -444,7 +462,8 @@
     "age_rating": "R",
     "language": "English",
     "country": "USA, UK",
-    "imdb_rating": 8.5
+    "imdb_rating": 8.5,
+    "trailer_url": "https://youtu.be/P5ieIbInFpg"
   },
   {
     "id": 20,
@@ -467,7 +486,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA, UK",
-    "imdb_rating": 9.0
+    "imdb_rating": 9.0,
+    "trailer_url": "https://youtu.be/EXeTwQWrcwY"
   },
   {
     "id": 21,
@@ -490,7 +510,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 7.9
+    "imdb_rating": 7.9,
+    "trailer_url": "https://youtu.be/vc7_mH2PWHs"
   },
   {
     "id": 22,
@@ -513,7 +534,8 @@
     "age_rating": "PG",
     "language": "Japanese",
     "country": "Japan",
-    "imdb_rating": 8.6
+    "imdb_rating": 8.6,
+    "trailer_url": "https://youtu.be/GAp2_0JJskk"
   },
   {
     "id": 23,
@@ -536,7 +558,8 @@
     "age_rating": "U",
     "language": "Hindi",
     "country": "India",
-    "imdb_rating": 8.1
+    "imdb_rating": 8.1,
+    "trailer_url": "https://youtu.be/oIZ4U21DRlM"
   },
   {
     "id": 24,
@@ -559,7 +582,8 @@
     "age_rating": "PG-13",
     "language": "English, Na'vi",
     "country": "USA",
-    "imdb_rating": 7.7
+    "imdb_rating": 7.7,
+    "trailer_url": "https://youtu.be/o5F8MOz_IDw"
   },
   {
     "id": 25,
@@ -582,7 +606,8 @@
     "age_rating": "PG",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 8.9
+    "imdb_rating": 8.9,
+    "trailer_url": "https://youtu.be/yFrxzaBLDQM"
   },
   {
     "id": 26,
@@ -605,7 +630,8 @@
     "age_rating": "R",
     "language": "English",
     "country": "Australia, USA",
-    "imdb_rating": 8.1
+    "imdb_rating": 8.1,
+    "trailer_url": "https://youtu.be/MonFNCgK4WE"
   },
   {
     "id": 27,
@@ -628,7 +654,8 @@
     "age_rating": "R",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 7.7
+    "imdb_rating": 7.7,
+    "trailer_url": "https://youtu.be/yNncHPl1UXg"
   },
   {
     "id": 28,
@@ -655,7 +682,8 @@
     "age_rating": "PG-13",
     "language": "English",
     "country": "USA, UK",
-    "imdb_rating": 8.6
+    "imdb_rating": 8.6,
+    "trailer_url": "https://youtu.be/LY19rHKAaAg"
   },
   {
     "id": 29,
@@ -678,7 +706,8 @@
     "age_rating": "PG-13",
     "language": "English, French, German",
     "country": "USA",
-    "imdb_rating": 8.1
+    "imdb_rating": 8.1,
+    "trailer_url": "https://youtu.be/71rDQ7z4eFg"
   },
   {
     "id": 30,
@@ -701,6 +730,7 @@
     "age_rating": "R",
     "language": "English",
     "country": "USA",
-    "imdb_rating": 8.9
+    "imdb_rating": 8.9,
+    "trailer_url": "https://youtu.be/tGpTpVyI_OQ"
   }
 ]
